@@ -21,6 +21,7 @@ Node
 * [REST api with Express](http://blog.modulus.io/nodejs-and-express-create-rest-api)
 * [Sessions with Express](http://blog.modulus.io/nodejs-and-express-sessions)
 * [REST api with Express and Mongodb](http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/)
+* [Node App Deploy as service - Linux](https://www.exratione.com/2013/02/nodejs-and-forever-as-a-service-simple-upstart-and-init-scripts-for-ubuntu/)
 
 Graphics and animation
 =========
